@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lottery>
+    <purchasedNumbers>
+        <number>123456</number>
+        <number>001234</number>
+        <number>567890</number>
+    </purchasedNumbers>
+
+    <latestResult>
+        <drawNumber></drawNumber>
+        <drawDate></drawDate>
+        <winningNumber></winningNumber>
+        <checkedAt></checkedAt>
+    </latestResult>
+</lottery>
