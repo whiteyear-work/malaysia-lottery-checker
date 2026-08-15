@@ -1,18 +1,19 @@
 FROM golang:1.26-alpine
 
-# Sets /app as the working folder inside the container.
 WORKDIR /app
 
-# Copies the Go module file first.
+# Install Air for development auto reload.
+RUN go install github.com/air-verse/air@latest
+
+# Make sure Go-installed binaries are available.
+ENV PATH="/go/bin:${PATH}"
+
 COPY go.mod ./
 
-# download dependecy
-RUN go mod download 
+RUN go mod download
 
-# Copies the entire project into the Docker image. from root and current
 COPY . .
 
 EXPOSE 8080
 
-# Starts the Go application.
 CMD ["go", "run", "."]

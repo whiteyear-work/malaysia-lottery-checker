@@ -14,4 +14,5 @@ services:
 
     working_dir: /app
 
-    command: go run .
+    # command: go run . 
+    command: air
