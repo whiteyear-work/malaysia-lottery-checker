@@ -1,0 +1,989 @@
+
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+	
+	<!-- GA4 - Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-QWNX6KRSGY"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-QWNX6KRSGY');
+	</script>
+	<!-- GA4 - Google tag (gtag.js) -->	
+	
+	
+	
+	<link rel="shortcut icon" href="images/favicon.ico" />
+    <title>Welcome to Sports Toto's Official Website Go For It! - Popup Live Draw</title>
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+	<meta content="" name="keywords">
+	<meta content="" name="description">
+	<!-- Favicons -->
+	<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/toto4dfireball.css">    
+    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+	<link rel="stylesheet" href="assets/css/customize.css">
+	
+	<style>
+		.setmargintext2 {
+			margin-top: 5px;
+			margin-bottom: 5px;
+		}
+
+		.toto-wrapper {
+		max-width: 800px;
+		margin: 0 auto;
+		padding: 15px;
+		}
+
+		.toto-container {
+			display: flex;
+			align-items: flex-start; /* icon aligns to top of text */
+			gap: 15px;
+		}
+
+		.toto-icon {
+			width: auto;
+			max-height: 60px; /* max height prevents logo from being too big */
+			flex-shrink: 0;
+		}
+
+		/* Text block */
+		.toto-text {
+			display: flex;
+			flex-direction: column;
+		}
+
+		.toto-text .txt_red5 {
+			line-height: 24px;
+			font-weight: bold;
+		}
+
+		.toto-text .txt_black6 {
+			line-height: 18px;
+		}
+		
+		/* Mobile responsiveness */
+		@media (max-width: 600px) {
+			.toto-container {
+				flex-direction: column;
+				align-items: center;
+				text-align: center;
+			}
+
+			.toto-icon {
+				max-height: 50px; /* smaller on mobile */
+				margin-bottom: 1px;
+			}
+		}
+
+
+	</style>
+	
+
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="Z6UFF-RDMLA-J3G78-XMBQX-UHJQ2",function(){function e(){if(!i){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.parentNode.appendChild(e),i=!0}}function t(e){i=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",o.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"Z6UFF-RDMLA-J3G78-XMBQX-UHJQ2";var o=document.currentScript||document.getElementsByTagName("script")[0],i=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!i)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="eaaq42cuqez6oiabbzucbwyaavviazwk-f-cf9d9d561-clienttons-s.akamaihd.net",o="false"=="true"?2:1,i={"ak.v":"41","ak.cp":"1820002","ak.ai":parseInt("1211168",10),"ak.ol":"0","ak.cr":17,"ak.ipv":6,"ak.proto":"h2","ak.rid":"448da363","ak.r":44548,"ak.a2":n,"ak.m":"dscb","ak.n":"ff","ak.cport":64205,"ak.gh":"203.106.94.46","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1786799818","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==ZIJiHUuYeOurRKGIPJXFqS94KCus+ojFvEVzlQbvBpm1LAsEm4myTXK6VV3cwqeU5TTuaJMRpbthXLqRNE4FJqfx27gavNjw94YLz0h+2LI0BDQZzd1QR4lly9I3YGwvxTzG0dhzhMI1I7lJXPaznJ4M5PIWh06Du0wkPCrU7iBi2v4TdcPRwdEXPNh3r5RXxX8YL1mQet8IGM/3H5Vrcicz7yjVpYej052Cn+6GEaoecQySq2pCLnEMb2S6rT3Zc7c/kraAXP2eBj7wJBcdsCe5qh8tRPjNoz0lALtKSlkZOepCsK6fzfZgFAy18XkMOQr1FcfZd5ZC1iN8PnaJWkCipkAjn7BundAxVjJJ+zhBrkpZjL2sP2GVGiu+ZDXCwVaVXbeLn5dwkh/+DJ4qejmS68mq8BTOiOl89w35W10=","ak.pv":"11","ak.dpoabenc":"","ak.tf":o};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+<body>
+    
+	    <div class="container">
+		   <div class="toto-wrapper">
+				<div class="toto-container">
+					<img src="images/toto_logo1.png" class="toto-icon">
+
+					<div class="toto-text">
+						<div class="txt_red5">
+							Toto Live Draw Results
+						</div>
+						<div class="txt_black6">
+							The first drawn number will roll out at about 7.15pm. Due to heavy traffic, you may experience slow download response. Big Winnings will be available online after 9.30pm.
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+
+
+        
+		
+			<!-- ****************** Recent Results Start ****************** -->
+			<section>
+			   
+				  
+
+
+  <!-- Start Result area -->
+  <div id="about" class="about-area area-padding">
+    <div class="">
+      <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+          <div class="section-headline text-center">
+            
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <!-- single-well start-->
+        <div class="col-md-12 col-sm-12 col-xs-12">
+          
+          
+	        <div class="col-sm-12" style="background-color:#ed363f; padding:12px; display:none;" id="resultTable1">
+	          <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:10px;">
+	            
+				<tr>
+	              <td bgcolor="#FFFFFF">
+					<div class="row g-0">
+						<!-- Draw Date -->
+						<div class="col-sm-6 setmargintext2
+									text-center text-sm-start
+									order-1 order-sm-1 p-0">
+							<span class="txt_black6 d-block m-0 p-0 lh-1">
+								&nbsp; Draw Date : 15/08/2026, SATURDAY
+							</span>
+						</div>
+
+						<!-- Draw No -->
+						<div class="col-sm-6 setmargintext2
+									text-center text-sm-end
+									order-2 order-sm-2 p-0">
+							<span class="txt_black6 d-block m-0 p-0 lh-1">
+								Draw No : 6171/26&nbsp;
+							</span>
+						</div>
+					</div>
+
+
+				  </td></tr>
+
+              </table>
+																																																						
+			  <div class="row" >
+			  <div class="d-m-none col-lg-6" >
+	          <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:10px;">
+				<!--<tr>
+				  <td height="20" align="center" valign="top" class="txt_white2" bgcolor="#FF0000">Toto 4D - prize payments guaranteed in full</td>
+				</tr>-->
+				<tr>
+				  <td align="center" class="txt_white5">TOTO 4D</td>
+				  </tr>
+				<tr>
+				  <td><table width="100%" border="0" cellspacing="1" cellpadding="0" style="text-align:center;">
+					<tr class="txt_white2" bgcolor="#000000">
+					  <td width="33.33%" colspan="2">First Prize</td>
+	                <td width="33.33%" colspan="2">Second Prize</td>
+	                <td width="33.33%" colspan="2">Third Prize</td>
+					  </tr>
+					<tr class="txt_black2" bgcolor="#ffffff">
+						<td width="6%" height="24" style="font-size:18px;color:#dd020d;" >M</td>
+						<td width="27.33%" style="font-size:24px;">2976</td>
+						<td width="6%" style="font-size:18px;color:#dd020d;">B</td>
+						<td width="27.33%" style="font-size:24px;">3857</td>
+						<td width="6%" style="font-size:18px;color:#dd020d;">D</td>
+						<td width="27.33%" style="font-size:24px;">2299</td>
+					  </tr>
+					</table>
+					<table width="100%" border="0" cellspacing="1" cellpadding="0" style="text-align:center;">
+					  <tr class="txt_white2" bgcolor="#000000">
+						<td colspan="8">Special Prize</td>
+						</tr>
+					  <tr class="txt_black2" bgcolor="#ffffff">
+						 <td width="5%" height="16" style="font-size:14px;">A</td>
+						 <td width="20%" style="font-size:22px;">6015</td>
+						 <td width="5%" style="font-size:14px;">B</td>
+						 <td width="20%" style="font-size:22px;">****</td>
+						 <td width="5%" style="font-size:14px;">C</td>
+						 <td width="20%" style="font-size:22px;">9505</td>
+						 <td width="5%" style="font-size:14px;">D</td>
+						 <td width="20%" style="font-size:22px;">****</td>
+						</tr>
+					  <tr class="txt_black2" bgcolor="#ffffff">
+						<td width="5%" height="18" style="font-size:14px;">E</td>
+						<td width="20%" style="font-size:22px;">0387</td>
+						<td width="5%" style="font-size:14px;">F</td>
+						<td width="20%" style="font-size:22px;">2469</td>
+						<td width="5%" style="font-size:14px;">G</td>
+						<td width="20%" style="font-size:22px;">4412</td>
+						<td width="5%" style="font-size:14px;">H</td>
+						<td width="20%" style="font-size:22px;">0695</td>
+						</tr>
+					  <tr class="txt_black2" bgcolor="#ffffff">
+						<td width="5%" height="18" style="font-size:14px;">I</td>
+						<td width="20%" style="font-size:22px;">9127</td>
+						<td width="5%" style="font-size:14px;">J</td>
+						<td width="20%" style="font-size:22px;">9753</td>
+						<td width="5%" style="font-size:14px;">K</td>
+						<td width="20%" style="font-size:22px;">6962</td>
+						<td width="5%" style="font-size:14px;">L</td>
+						<td width="20%" style="font-size:22px;">3063</td>
+						</tr>
+					  <tr class="txt_black2" bgcolor="#ffffff">
+						<td colspan="2" height="18" bgcolor="#c0c0c0">&nbsp;</td>
+						<td style="font-size:14px;">M</td>
+						<td style="font-size:22px;">****</td>
+						<td>&nbsp;</td>
+						<td bgcolor="#FFFFFF">&nbsp;</td>
+						<td colspan="2" height="18" bgcolor="#c0c0c0">&nbsp;</td>
+						</tr>
+					  </table>
+					<table width="100%" border="0" cellspacing="1" cellpadding="0" style="text-align:center;">
+					  <tr class="txt_white2" bgcolor="#000000">
+						<td colspan="4">Consolation Prize</td>
+						</tr>
+					  <tr class="txt_black2" bgcolor="#ffffff">
+						<td width="25%" height="24" style="font-size:22px;">1368</td>
+						<td width="25%" style="font-size:22px;">2763</td>
+						<td width="25%" style="font-size:22px;">6465</td>
+						<td width="25%" style="font-size:22px;">6352</td>
+						</tr>
+					  <tr class="txt_black2" bgcolor="#ffffff">
+						<td width="25%" height="24" style="font-size:22px;">4995</td>
+						<td width="25%" style="font-size:22px;">3097</td>
+						<td width="25%" style="font-size:22px;">2102</td>
+						<td width="25%" style="font-size:22px;">6218</td>
+						</tr>
+					  <tr class="txt_black2" bgcolor="#ffffff">
+						<td width="25%" height="20" bgcolor="#c0c0c0">&nbsp;</td>
+						<td width="25%" style="font-size:22px;">7235</td>
+						<td width="25%" style="font-size:22px;">1951</td>
+						<td width="25%" bgcolor="#c0c0c0">&nbsp;</td>
+						</tr>
+					  </table></td>
+				</tr>
+				</table>
+				
+				<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:10px;">
+				<!-- <tr>
+				  <td height="20" align="center" valign="top" class="txt_white2" bgcolor="#FF0000">Toto 4D Jackpot - Chances To Become A Millionaire!</td>
+				</tr>-->
+				<tr>
+				  <td align="center" class="txt_white5">TOTO 4D JACKPOT</td>
+				</tr>
+				<tr>
+				  <td><table width="100%" border="0" cellspacing="1" cellpadding="0" style="text-align:center;" class="toto4dj">
+					<tr bgcolor="#FFFFFF">
+					   <td height="24" bgcolor="#000000" style="width:33.33%; " class="txt_white2 1sttable4dj">Jackpot 1</td>
+					   <td colspan="2"  class='txt_red8'>RM 3,513,989.51</td>
+					  </tr>
+					
+					<tr class="txt_black2" bgcolor="#FFFFFF">
+					  <td width="147" height="18"><span style="font-size:20px;">2976</span><span style="font-size:14px;">+</span><span style="font-size:20px;">3857</span></td>
+					  <td width="147"><span style="font-size:20px;">2976</span><span style="font-size:14px;">+</span><span style="font-size:20px;">2299</span></td>
+					  <td width="146"><span style="font-size:20px;">3857</span><span style="font-size:14px;">+</span><span style="font-size:20px;">2299</span></td>
+					</tr>
+					<tr class="txt_black2" bgcolor="#FFFFFF">
+					  <td height="18"><span style="font-size:20px;">3857</span><span style="font-size:14px;">+</span><span style="font-size:20px;">2976</span></td>
+					  <td ><span style="font-size:20px;">2299</span><span style="font-size:14px;">+</span><span style="font-size:20px;">2976</span></td>
+					  <td ><span style="font-size:20px;">2299</span><span style="font-size:14px;">+</span><span style="font-size:20px;">3857</span></td>
+					</tr>
+					
+					<tr bgcolor="#FFFFFF">
+					  <td height="24" bgcolor="#000000" class="txt_white2">Jackpot 2</td>
+					  <td colspan="2"  class='txt_red8'>RM 139,516.08</td>
+					  </tr>
+					<tr bgcolor="#FFFFFF">
+					  <td height="18" colspan="3" class="txt_black3">Matches any 1 of top 3 and any 1 of special winning numbers</td>
+					  </tr>
+				  </table></td>
+				</tr>
+			  </table>
+			 
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" =none13>
+			   
+				 <tr>
+				  <td align="center" height="30" class="txt_white5">TOTO 4D ZODIAC</td>
+				  </tr>
+			</table>
+			  <table width="100%" =none13 border="0" cellspacing="1" cellpadding="0" style="margin-bottom:10px; text-align:center;" >
+				
+				<tr>
+				  <td height="24" bgcolor="#000000" class="txt_white2 zodiac_txt_width"  >1st Prize</td>
+				  <td bgcolor="#FFFFFF" class="txt_black2" style="font-size:22px;">2976</td>
+				  <td width="20" bgcolor="#FFFFFF" class="txt_black2" rowspan="5">+</td>
+				  <td align="right" bgcolor="#FFFFFF" class="txt_black2 txt_left" rowspan="5" style="width:25%;"><span class="txt-setmargin" ><img src="images/zodiac/K.png" class="img-responsive"style="max-height:175px; width:99%;" ></span></td>
+				</tr>
+				<tr>
+				  <td height="24" bgcolor="#000000" class="txt_white2" >2nd Prize</td>
+				  <td bgcolor="#FFFFFF" class="txt_black2" style="font-size:22px">3857</td>
+				</tr>
+				<tr>
+				  <td height="24" bgcolor="#000000" class="txt_white2" >3rd Prize</td>
+				  <td bgcolor="#FFFFFF" class="txt_black2" style="font-size:22px">2299</td>
+				</tr>
+				<tr>
+				  <td height="24" bgcolor="#000000" class="txt_white2">4th Prize</td>
+				  <td bgcolor="#FFFFFF" class="txt_black2" style="font-size:14px;">Special Prize</td>
+				</tr>
+				<tr>
+				  <td height="24" bgcolor="#000000" class="txt_white2">5th Prize</td>
+				  <td bgcolor="#FFFFFF" class="txt_black2" style="font-size:14px;">Consolation Prize</td>
+				</tr>
+				<tr>
+				
+				  <td width="160" height="18" bgcolor="#000000" class="txt_white2">6th Prize</td>
+				  <td colspan="3" bgcolor="#FFFFFF" class="txt_black2" style="font-size:14px;">Any 4D numbers drawn</td>
+				  </tr>
+			  </table>
+			  </div>
+			  
+			<div class="d-m-none col-lg-6" >
+			  
+			
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				 <tr>
+				  <td align="center" height="30" class="txt_white5">TOTO 4D FIREBALL</td>
+				</tr>
+			  </table>
+			  <table class="Toto_4d_Fireball" height="30" width="100%" border="0" cellspacing="1" cellpadding="0" style="margin-bottom:10px; text-align:center;">
+			  		<tr>
+					  <td height="24" bgcolor="#000000" class="txt_white2">Fireball</td>
+					  <td colspan="5" bgcolor='#FFFFFF'><span style="color: #FF0000;font-size:22px;" >6</span></td>
+					  </tr>
+										
+					<tr>
+					  <td width="16%" height="24" bgcolor="#000000" class="txt_white2">1st Prize</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:20px;">2976</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:20px;"><span style="color: #FF0000;">6</span>976</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:20px;">2<span style="color: #FF0000;">6</span>76</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:20px;">29<span style="color: #FF0000;">6</span>6</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:20px;">297<span style="color: #FF0000;">6</span></td>
+					</tr>
+					<tr>
+					  <td width="16%" height="24" bgcolor="#000000" class="txt_white2">2nd Prize</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:20px;">3857</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:20px;"><span style="color: #FF0000;">6</span>857</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:20px;">3<span style="color: #FF0000;">6</span>57</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:20px;">38<span style="color: #FF0000;">6</span>7</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:20px;">385<span style="color: #FF0000;">6</span></td>
+					</tr>
+					<tr>
+					  <td width="16%" height="24" bgcolor="#000000" class="txt_white2" >3rd Prize</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:20px;">2299</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:20px;"><span style="color: #FF0000;">6</span>299</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:20px;">2<span style="color: #FF0000;">6</span>99</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:20px;">22<span style="color: #FF0000;">6</span>9</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:20px;">229<span style="color: #FF0000;">6</span></td>
+					</tr>
+					<tr>
+					  <td width="16%" height="18" bgcolor="#000000" class="txt_white2">4th Prize</td>
+					  
+					  
+						<td colspan="4" bgcolor='#FFFFFF' class="txt_black2" style="border-right-color: white;font-size:14px;">Special or any Fireball combination for Special</td>
+						<td colspan="1" bgcolor='#FFFFFF'><button type="button" id="OPBT4D" class="txt_black2">+</button></td>
+					  
+					  
+				    </tr>
+				    <tr>
+					  <td width="16%" height="18" bgcolor="#000000" class="txt_white2">5th Prize</td>
+					  
+					  
+						<td colspan="4" bgcolor='#FFFFFF' class="txt_black2" style="border-right-color: white;font-size:14px;">Consolation or any Fireball combination for Consolation</td>
+						<td colspan="1" bgcolor='#FFFFFF'><button type="button" id="OPBT4D2" class="txt_black2">+</button></td>
+					  
+					  
+				    </tr>
+				</table>
+				<!--</br>-->
+		
+			  
+			  		
+			 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<!--<tr>
+				  <td height="20" align="center" valign="top" class="txt_white2" bgcolor="#FF0000">Toto Lotto Games - Everyone Can Win Big!</td>
+				</tr>-->
+				 <tr>
+				  <td align="center" height="30" class="txt_white5">SUPREME TOTO 6/58</td>
+				</tr>
+			  </table>
+			  <table class="supremetoto" height="30" width="100%" border="0" cellspacing="1" cellpadding="0" style="text-align:center;">
+					<tr>
+					 
+					  <td width="16%" height="24" bgcolor="#FFFFFF" class="txt_black2" style="font-size:22px;">25</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:22px;">9</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:22px;">26</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:22px;">15</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:22px;">22</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:22px;">19</td>
+					</tr>
+					<tr>
+					  <td height="24" bgcolor="#000000" class="txt_white2">Jackpot</td>
+					  <td colspan="5" bgcolor="#FFFFFF" class='txt_red8'>RM 21,317,577.20</td>
+				  </tr>
+				</table>			 
+			<!--</br>-->
+			 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+				 <tr>
+				  <td align="center" height="30" class="txt_white5">POWER TOTO 6/55</td>
+				</tr>
+			  </table>
+			   <table class="startoto" width="100%" =none13    border="0" cellspacing="1" cellpadding="0" style=" text-align:center;">
+					<tr>
+					
+					  <td width="16%" height="24" bgcolor="#FFFFFF" class="txt_black2" style="font-size:22px;">54</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:22px;">7</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:22px;">23</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:22px;">30</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:22px;">48</td>
+					  <td width="16%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:22px;">39</td>
+					</tr>
+				<tr>
+				  <td height="24" bgcolor="#000000" class="txt_white2">Jackpot</td>
+				 <td colspan="5" bgcolor="#FFFFFF" class='txt_red8' >RM 13,875,901.46</td>
+				  </tr>
+			  </table>
+			 
+			 <!--</br>-->
+			 <table width="100%" border="0" cellspacing="0" cellpadding="0" >
+
+				 <tr>
+				  <td align="center" height="30" class="txt_white5">STAR TOTO 6/50</td>
+				</tr>
+			  </table>
+			  <table class="startoto" width="100%"   border="0" cellspacing="1" cellpadding="0" style=" text-align:center;">
+				<tr>
+				  
+				  <td width="12.5%" height="24" bgcolor="#FFFFFF" class="txt_black2" style="font-size:22px;">50</td>
+				  <td width="12.5%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:22px;">17</td>
+				  <td width="12.5%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:22px;">34</td>
+				  <td width="12.5%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:22px;">1</td>
+				  <td width="12.5%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:22px;">9</td>
+				  <td width="12.5%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:22px;">39</td>
+				  <td width="12.5%" bgcolor="#FFFFFF" class="txt_black2">+</td>
+				  <td width="12.5%" bgcolor="#FFFFFF" class="txt_black2" style="font-size:22px;">27</td>
+				</tr>
+				<tr>
+				  <td colspan="2" height="24" bgcolor="#000000" class="txt_white2">Jackpot&nbsp;1</td>
+				   <td colspan="6" bgcolor="#FFFFFF" class='txt_red8'>RM 1,593,246.46</td>
+				  </tr>
+				<tr>
+				  <td colspan="2" height="24" bgcolor="#000000" class="txt_white2">Jackpot&nbsp;2</td>
+				  <td colspan="6" bgcolor="#FFFFFF" class='txt_red8'>RM 100,000.00</td>
+				  </tr>
+			</table>
+			
+			
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:12px;" >
+				
+				 <!--<tr>
+				  <td height="20" align="center" valign="top" class="txt_white2" bgcolor="#FF0000">Toto 5D & Toto 6D - prize payments guaranteed in full</td>
+				 </tr>-->
+				 <tr>
+				 
+				  <td align="center" class="txt_white5">TOTO 5D</td>
+				  </tr>
+			</table>
+			<table class="toto5d" width="100%" border="0" cellspacing="1" cellpadding="0" style="margin-bottom:5px; text-align:center;">
+				<tr>
+					<!-- 1st Prize label -->
+					<td width="104" height="18" bgcolor="#000000"
+						class="txt_white2 mobileviewlabel">
+						1st Prize
+					</td>
+
+					<!-- 1st Prize number -->
+					<td width="180" align="right" bgcolor="#FFFFFF"
+						class="txt_black4" style="font-size:22px;">
+						00198
+					</td>
+
+					<!-- 4th Prize label -->
+					<td width="104" bgcolor="#000000"
+						class="txt_white2 mobileviewlabel">
+						4th Prize
+					</td>
+
+					<!-- 4th Prize number -->
+					<td width="180" align="right" bgcolor="#FFFFFF"
+						class="txt_black4 txt_left" style="font-size:18px;">
+						<span class="box_grey_left"></span>
+						<span class="txt-setmargin">
+							0198
+						</span>
+					</td>
+				</tr>
+
+				<tr>
+					<!-- 2nd Prize (LEFT) -->
+					<td width="104" height="18" bgcolor="#000000"
+						class="txt_white2 mobileviewlabel">
+						2nd Prize
+					</td>
+					<td width="180" align="right" bgcolor="#FFFFFF"
+						class="txt_black4" style="font-size:22px;">
+						75056
+					</td>
+
+					<!-- 5th Prize (RIGHT) -->
+					<td width="104" bgcolor="#000000"
+						class="txt_white2 mobileviewlabel">
+						5th Prize
+					</td>
+					<td width="180" align="right" bgcolor="#FFFFFF"
+						class="txt_black4 txt_left" style="font-size:18px;">
+						<span class="box_grey_left"></span>
+						<span class="box_grey_left"></span>
+						<span class="txt-setmargin">
+							198
+						</span>
+					</td>
+				</tr>
+				
+				<tr>
+					<!-- 3rd Prize (LEFT) -->
+					<td width="104" height="18" bgcolor="#000000"
+						class="txt_white2 mobileviewlabel">
+						3rd Prize
+					</td>
+					<td width="180" align="right" bgcolor="#FFFFFF"
+						class="txt_black4" style="font-size:22px;">
+						84350
+					</td>
+
+					<!-- 6th Prize (RIGHT) -->
+					<td width="104" bgcolor="#000000"
+						class="txt_white2 mobileviewlabel">
+						6th Prize
+					</td>
+					<td width="180" align="right" bgcolor="#FFFFFF"
+						class="txt_black4 txt_left" style="font-size:18px;">
+						<span class="box_grey_left"></span>
+						<span class="box_grey_left"></span>
+						<span class="box_grey_left"></span>
+						<span class="txt-setmargin">
+							98
+						</span>
+					</td>
+				</tr>
+				
+				
+			</table>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			   
+				 <tr>
+				  <td align="center" height="30" class="txt_white5">TOTO 6D</td>
+				  </tr>			
+			</table>
+
+			  <table class="toto6d" width="100%" border="0" cellspacing="1" cellpadding="0" style="margin-bottom:10px; text-align:center;">
+				
+				<tr>
+				
+				  <td width="100" height="24" bgcolor="#000000" class="txt_white2 mobileviewlabel">1st Prize</td>
+				  <td colspan="3" bgcolor="#FFFFFF" class="txt_black4" style="font-size:22px;">265156</td>
+				  </tr>
+				<tr>
+				  <td height="18" bgcolor="#000000" class="txt_white2 mobileviewlabel">2nd Prize</td>
+				  <td align="right" bgcolor="#FFFFFF" class="txt_black4" style="font-size:18px;">26515<span class="box_grey_right"></span></td>
+				  <td width="20" bgcolor="#000000" class="txt_white2s">or</td>
+				  <td align="right" bgcolor="#FFFFFF" class="txt_black4 txt_left"><span class="box_grey_left"></span><span class="txt-setmargin" style="font-size:18px;">65156</span></td>
+				</tr>
+				<tr>
+				  <td height="18" bgcolor="#000000" class="txt_white2 mobileviewlabel">3rd Prize</td>
+				  <td align="right" bgcolor="#FFFFFF" class="txt_black4" style="font-size:18px;">2651<span class="box_grey_right"></span><span class="box_grey_right"></span></td>
+				  <td bgcolor="#000000" class="txt_white2s">or</td>
+				  <td align="right" bgcolor="#FFFFFF" class="txt_black4 txt_left" ><span class="box_grey_left"></span><span class="box_grey_left"></span><span class="txt-setmargin" style="font-size:18px;">5156</span></td>
+				</tr>
+				<tr>
+				  <td height="18" bgcolor="#000000" class="txt_white2 mobileviewlabel">4th Prize</td>
+				  <td align="right" bgcolor="#FFFFFF" class="txt_black4" style="font-size:18px;">265<span class="box_grey_right"></span><span class="box_grey_right"></span><span class="box_grey_right"></span></td>
+				  <td bgcolor="#000000" class="txt_white2s">or</td>
+				  <td align="right" bgcolor="#FFFFFF" class="txt_black4 txt_left" ><span class="box_grey_left"></span><span class="box_grey_left"></span><span class="box_grey_left"></span><span class="txt-setmargin" style="font-size:18px;">156</span></td>
+				</tr>
+				<tr>
+				  <td height="18" bgcolor="#000000" class="txt_white2 mobileviewlabel">5th Prize</td>
+				  <td align="right" bgcolor="#FFFFFF" class="txt_black4" style="font-size:18px;">26<span class="box_grey_right"></span><span class="box_grey_right"></span><span class="box_grey_right"></span><span class="box_grey_right"></span></td>
+				  <td bgcolor="#000000" class="txt_white2s">or</td>
+				  <td align="right" bgcolor="#FFFFFF" class="txt_black4 txt_left" ><span class="box_grey_left"></span><span class="box_grey_left"></span><span class="box_grey_left"></span><span class="box_grey_left"></span><span class="txt-setmargin" style="font-size:18px;">56</span></td>
+				</tr>
+			  </table>
+
+			  </div>
+			  </div>
+			  </div>
+
+		<!-- single-well start-->
+
+			<script language="javascript">
+              document.getElementById('resultTable1').style.display = "block";
+          </script>
+        </div>
+      
+      </div>
+    </div>
+  </div>
+  
+  
+
+	<!-- 4D Fireball Popup: Start -->
+	<div id="OPT4D" class="OPB1 pbox1 dnone1 jcontcent aligitcent posfix ins1 bgd1 flow-up1" height="350" valign="top">
+	<div class="PT4D mobile-responsive h321 w1 bgw1 pad1 r0 t0" halign="center">
+	<p id="CPBT4D" class="PT4DCB flow-up textend fontarial posrel r0to">x</p>
+	<div style="background-color:#ff0000;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+	<td align="center" height="30" style="color: #FFF; font-size: 18px; line-height: normal; font-family: 'RobotoBlack', Arial, Helvetica, sans-serif;">4th Prize</td>
+	</tr>
+	</table>
+	<table width="100%" border="0" cellspacing="1" cellpadding="0" style="text-align:center;">
+	<tr>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">6015</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF"><span style="color: #FF0000;">6</span>015</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">6<span style="color: #FF0000;">6</span>15</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">60<span style="color: #FF0000;">6</span>5</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">601<span style="color: #FF0000;">6</span></td>
+	</tr>
+	<tr>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">9505</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF"><span style="color: #FF0000;">6</span>505</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">9<span style="color: #FF0000;">6</span>05</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">95<span style="color: #FF0000;">6</span>5</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">950<span style="color: #FF0000;">6</span></td>
+	</tr>
+	<tr>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">0387</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF"><span style="color: #FF0000;">6</span>387</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">0<span style="color: #FF0000;">6</span>87</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">03<span style="color: #FF0000;">6</span>7</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">038<span style="color: #FF0000;">6</span></td>
+	</tr>
+	<tr>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">2469</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF"><span style="color: #FF0000;">6</span>469</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">2<span style="color: #FF0000;">6</span>69</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">24<span style="color: #FF0000;">6</span>9</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">246<span style="color: #FF0000;">6</span></td>
+	</tr>
+	<tr>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">4412</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF"><span style="color: #FF0000;">6</span>412</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">4<span style="color: #FF0000;">6</span>12</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">44<span style="color: #FF0000;">6</span>2</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">441<span style="color: #FF0000;">6</span></td>
+	</tr>
+	<tr>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">0695</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF"><span style="color: #FF0000;">6</span>695</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">0<span style="color: #FF0000;">6</span>95</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">06<span style="color: #FF0000;">6</span>5</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">069<span style="color: #FF0000;">6</span></td>
+	</tr>
+	<tr>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">9127</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF"><span style="color: #FF0000;">6</span>127</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">9<span style="color: #FF0000;">6</span>27</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">91<span style="color: #FF0000;">6</span>7</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">912<span style="color: #FF0000;">6</span></td>
+	</tr>
+	<tr>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">9753</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF"><span style="color: #FF0000;">6</span>753</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">9<span style="color: #FF0000;">6</span>53</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">97<span style="color: #FF0000;">6</span>3</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">975<span style="color: #FF0000;">6</span></td>
+	</tr>
+	<tr>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">6962</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF"><span style="color: #FF0000;">6</span>962</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">6<span style="color: #FF0000;">6</span>62</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">69<span style="color: #FF0000;">6</span>2</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">696<span style="color: #FF0000;">6</span></td>
+	</tr>
+	<tr>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">3063</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF"><span style="color: #FF0000;">6</span>063</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">3<span style="color: #FF0000;">6</span>63</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">30<span style="color: #FF0000;">6</span>3</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">306<span style="color: #FF0000;">6</span></td>
+	</tr>
+	</table>
+	</div>
+	</div>
+	</div>
+	<div id="OPT4D2" class="OPB1 pbox1 dnone1 jcontcent aligitcent posfix ins1 bgd1 flow-up2" height="350" valign="top">
+	<div class="PT4D mobile-responsive h321 w1 bgw1 pad1 r0 t0" halign="center">
+	<p id="CPBT4D2" class="PT4DCB flow-up textend fontarial posrel r0to">x</p>
+	<div style="background-color:#ff0000;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+	<td align="center" height="30" style="color: #FFF; font-size: 18px; line-height: normal; font-family: 'RobotoBlack', Arial, Helvetica, sans-serif;">5th Prize</td>
+	</tr>
+	</table>
+	<table width="100%" border="0" cellspacing="1" cellpadding="0" style="text-align:center;">
+	<tr>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">1368</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF"><span style="color: #FF0000;">6</span>368</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">1<span style="color: #FF0000;">6</span>68</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">13<span style="color: #FF0000;">6</span>8</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">136<span style="color: #FF0000;">6</span></td>
+	</tr>
+	<tr>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">2763</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF"><span style="color: #FF0000;">6</span>763</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">2<span style="color: #FF0000;">6</span>63</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">27<span style="color: #FF0000;">6</span>3</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">276<span style="color: #FF0000;">6</span></td>
+	</tr>
+	<tr>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">6465</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF"><span style="color: #FF0000;">6</span>465</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">6<span style="color: #FF0000;">6</span>65</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">64<span style="color: #FF0000;">6</span>5</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">646<span style="color: #FF0000;">6</span></td>
+	</tr>
+	<tr>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">6352</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF"><span style="color: #FF0000;">6</span>352</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">6<span style="color: #FF0000;">6</span>52</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">63<span style="color: #FF0000;">6</span>2</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">635<span style="color: #FF0000;">6</span></td>
+	</tr>
+	<tr>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">4995</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF"><span style="color: #FF0000;">6</span>995</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">4<span style="color: #FF0000;">6</span>95</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">49<span style="color: #FF0000;">6</span>5</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">499<span style="color: #FF0000;">6</span></td>
+	</tr>
+	<tr>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">3097</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF"><span style="color: #FF0000;">6</span>097</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">3<span style="color: #FF0000;">6</span>97</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">30<span style="color: #FF0000;">6</span>7</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">309<span style="color: #FF0000;">6</span</td>
+	</tr>
+	<tr>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">2102</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF"><span style="color: #FF0000;">6</span>102</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">2<span style="color: #FF0000;">6</span>02</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">21<span style="color: #FF0000;">6</span>2</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">210<span style="color: #FF0000;">6</span></td>
+	</tr>
+	<tr>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">6218</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF"><span style="color: #FF0000;">6</span>218</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">6<span style="color: #FF0000;">6</span>18</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">62<span style="color: #FF0000;">6</span>8</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">621<span style="color: #FF0000;">6</span></td>
+	</tr>
+	<tr>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">7235</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF"><span style="color: #FF0000;">6</span>235</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">7<span style="color: #FF0000;">6</span>35</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">72<span style="color: #FF0000;">6</span>5</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">723<span style="color: #FF0000;">6</span></td>
+	</tr>
+	<tr>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">1951</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF"><span style="color: #FF0000;">6</span>951</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">1<span style="color: #FF0000;">6</span>51</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">19<span style="color: #FF0000;">6</span>1</td>
+	<td class="border-solid border-1 border-red font-bold font-size-18 line-normal font-roboto w2" bgcolor="#FFFFFF">195<span style="color: #FF0000;">6</span></td>
+	</tr>
+	</table>
+	</div>
+	</div>
+	</div>
+
+	
+	<!-- 4D Fireball Popup: End -->
+<!-- End result area -->
+		
+			
+			</section>
+			<!-- ****************** Recent Results End ****************** -->
+			
+			
+	
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td height="40" align="center" bgcolor="#FFFFFF"><form id="form1" name="form1" method="post" action="" style="margin:0;">
+				   <input type="button" name="refresh" id="refresh" value="Refresh" onClick="self.location.reload(true);" style="cursor:pointer;" />
+				</form></td>
+			  </tr>
+			</table>
+			
+			
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:10px;">      
+			<tbody>
+				 <tr>
+					<td height="">
+					<div id="box2didiwin">
+						<table width="100%" border="0" cellspacing="0" cellpadding="0" style="text-align:justify;">
+						  <tbody><tr>
+						 <td height="20"><center><font size="1.5"> In 
+				  the event of discrepancies between the information posted on this page and the official winning results, the latter shall prevail.</font></center></td>
+						  
+						   </tr>
+							</tbody></table>
+							</div>
+					</td>
+				  </tr>
+			</tbody></table>
+			 
+      </div>
+    
+	<div class="container-fluid" style="background: #ee1d23;">
+           
+			<hr style="color:white;opacity: 0.8;"/>
+			<div class="row gx-2 d-flex">
+                <!--<div class="col-auto col-lg-2 col-xl-5 col-xxl-5 d-xxl-flex flex-fill" style="padding-top: 21px;padding-left: 0;padding-bottom: 0;"><span class="fs-6 text-center text-sm-center text-md-center text-lg-start text-xl-start text-xxl-start d-flex flex-fill justify-content-center justify-content-sm-center justify-content-md-center justify-content-lg-start copyright-left" style="color: rgb(255,255,255);margin-right: 10px;padding-top: 19px;"><br><a href="../"><span style="color: rgb(255, 255, 255);">Home</span></a><span style="color: rgb(255, 255, 255);">&nbsp;|</span><a href="#"><span style="color: rgb(255, 255, 255);">&nbsp;</span></a><a href="contactus_feedback.asp"><span style="color: rgb(255, 255, 255);">Contact Us</span></a><span style="color: rgb(255, 255, 255);">&nbsp;|&nbsp;</span><a href="disclaimer.asp"><span style="color: rgb(255, 255, 255);">Website Disclaimer</span></a><span style="color: rgb(255, 255, 255);">&nbsp;|&nbsp;</span><a href="disclosure.asp"><span style="color: rgb(255, 255, 255);">Responsible Disclosure </span></a><span style="color: rgb(255, 255, 255);">&nbsp;|&nbsp;</span><a href="popup_privacy_policyE.asp" target="_blank"><span style="color: rgb(255, 255, 255);">Privacy Policy</span></a><br><br></span></div>
+                --!>
+				<div class="col-auto col-lg-2 col-xl-5 col-xxl-5 d-xxl-flex flex-fill" style="padding-top: 21px;padding-left: 0;padding-bottom: 0;"><span class="fs-6 text-center text-sm-center text-md-center text-lg-start text-xl-start text-xxl-start d-flex flex-fill justify-content-center justify-content-sm-center justify-content-md-center justify-content-lg-start copyright-left" style="color: rgb(255,255,255);margin-right: 10px;padding-top: 19px;"><br><a href="../stoto/"><span style="color: rgb(255, 255, 255);font-size:14px;">Home</span></a><span style="color: rgb(255, 255, 255);">&nbsp;|</span><a href="#"><span style="color: rgb(255, 255, 255);">&nbsp;</span></a><a href="https://www.sportstoto.com.my/contactus_feedback.asp"><span style="color: rgb(255, 255, 255);font-size:14px;">Contact Us</span></a><span style="color: rgb(255, 255, 255);">&nbsp;|&nbsp;</span><a href="https://www.sportstoto.com.my/disclaimer.asp"><span style="color: rgb(255, 255, 255);font-size:14px;">Website Disclaimer</span></a><span style="color: rgb(255, 255, 255);">&nbsp;|&nbsp;</span><a href="https://www.sportstoto.com.my/disclosure.asp"><span style="color: rgb(255, 255, 255);font-size:14px;">Responsible Disclosure </span></a><span style="color: rgb(255, 255, 255);">&nbsp;|&nbsp;</span><a href="https://www.sportstoto.com.my/popup_privacy_policyE.asp" target="_blank"><span style="color: rgb(255, 255, 255);font-size:14px;">Privacy Policy</span></a><span style="color: rgb(255, 255, 255);">&nbsp;|&nbsp;</span><a href="https://www.sportstoto.com.my/dalert.asp"><span style="color: rgb(255, 255, 255);font-size:14px;">Alert</span></a><br><br></span></div>
+				<div class="col-12 col-lg-7 col-xl-7 col-xxl-6 flex-fill" style="padding: 20px;padding-bottom: 0;">
+                    <div class="row gx-5 d-md-flex flex-fill justify-content-center">
+                        <div class="col-12 col-lg-auto col-xxl-auto d-xxl-flex" style="padding-right: 0;padding-left: 0;"><p class="fs-6 text-center text-lg-end" style="color: rgb(255,255,255);padding-right: 30px;padding-top: 19px;">
+    &copy; <span id="CurrentYear"></span> 
+    <strong>STM LOTTERY SDN BHD</strong>
+    (Co.Reg.196901000090 (8420-D)). All rights reserved.<br />
+    We are a member of the Berjaya Group of Companies
+</p></div>
+                        <div class="col-7 col-sm-5 col-md-3 col-lg-1 d-flex justify-content-center align-items-center order-first order-lg-last"><img class="Berjaya_Group_Logo" src="assets/img/Berjaya_Group_Logo.png" style="padding-bottom: 30px;min-width: 100px;max-width: 120px;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+		
+		
+		
+		
+		<!-- Start: Scroll to Top Button -->		
+		
+		<a id="Scroll_2_Top_Btn"
+		   href="#"
+		   title="Scroll to Top"
+		   style="display: none; background: rgba(0,0,0,0.5); border: 5px double #0094ff; border-radius: 100%; width: 50px; height: 50px; margin: 0; padding: 0; padding-top: 2px; color: #fff; position: fixed; bottom: 100px; right: 30px; z-index: 1000; text-align: center; line-height: 45px;">
+		  <i class="fa fa-arrow-up" style="color: rgba(255,255,255,0.85);"></i>
+		</a>
+
+		<script>
+		  // Detect scroll and toggle button
+		  window.addEventListener('scroll', function () {
+			const btn = document.getElementById("Scroll_2_Top_Btn");
+			if (window.scrollY > 200) {
+			  btn.style.display = "block";
+			} else {
+			  btn.style.display = "none";
+			}
+		  });
+
+		  // Scroll to top when clicked
+		  document.getElementById("Scroll_2_Top_Btn").addEventListener("click", function (e) {
+			e.preventDefault();
+			window.scrollTo({ top: 0, behavior: 'smooth' });
+		  });
+		</script>
+		<!-- End: Scroll to Top Button -->
+		
+		
+	
+
+	
+	
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/aos.min.js"></script>
+    <script src="assets/js/bs-init.js"></script>
+	<script src="assets/js/customize.js"></script>    
+	<script src="assets/js/toto4dfireball.js"></script>
+    <script src="assets/js/Collapse-card.js"></script>
+
+	
+	<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+    var PopupBanner1 = document.getElementById("PopupBanner1");
+    var PopupBannerOpen = document.getElementById("PopupBannerOpen1");
+    var PopupBannerClose = document.getElementsByClassName("PopupBannerClose")[0];
+
+    // Only run if elements exist
+    if (PopupBannerOpen && PopupBanner1) {
+        PopupBannerOpen.onclick = function () {
+            PopupBanner1.style.display = "block";
+        };
+    }
+
+    if (PopupBannerClose && PopupBanner1) {
+        PopupBannerClose.onclick = function () {
+            PopupBanner1.style.display = "none";
+        };
+    }
+
+    window.onclick = function (event) {
+        if (PopupBanner1 && event.target === PopupBanner1) {
+            PopupBanner1.style.display = "none";
+        }
+    };
+
+    // Call function ONLY if it exists
+    if (typeof fireballprizepopup8 === "function") {
+        fireballprizepopup8();
+    }
+
+});
+
+/* -------- Countdown at Refresh button -------- */
+function showResult(d) {
+
+    var temp = d.split(",");
+
+    document.getElementById('resultTable1').style.display = "none";
+    document.getElementById('resultTable2').style.display = "none";
+    document.getElementById('resultTable3').style.display = "none";
+
+    if (temp[0] === '1') {
+        document.getElementById('resultTable1').style.display = "block";
+    } else if (temp[0] === '2') {
+        document.getElementById('resultTable2').style.display = "block";
+    } else if (temp[0] === '3') {
+        document.getElementById('resultTable3').style.display = "block";
+    }
+
+    document.getElementById('printLink').href =
+        "results_past_print.asp?drawNo=" + temp[1];
+}
+</script>
+
+	
+<script language="JavaScript" type="text/javascript">
+
+    var refreshinterval = 60
+    var starttime
+    var nowtime
+    var reloadseconds = 0
+    var secondssinceloaded = 0
+
+    function starttime() {
+        starttime = new Date()
+        starttime = starttime.getTime()
+        countdown()
+    }
+
+    function countdown() {
+        nowtime = new Date()
+        nowtime = nowtime.getTime()
+        secondssinceloaded = (nowtime - starttime) / 1000
+        reloadseconds = Math.round(refreshinterval - secondssinceloaded)
+
+        if (refreshinterval >= secondssinceloaded) {
+            var timer = setTimeout("countdown()", 1000)
+
+
+            document.getElementById("refresh").value = "Page refreshing in " + reloadseconds + " seconds"
+
+        }
+        else {
+            clearTimeout(timer)
+            window.location.reload(true)
+        }
+    }
+    window.onload = starttime
+</script>
+
+</body>
+
+</html>
