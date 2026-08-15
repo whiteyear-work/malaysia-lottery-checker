@@ -1,9 +1,12 @@
-package main
+package main // define entry point
 
 import (
+	"encoding/json"
 	"html/template"
 	"log"
 	"net/http"
+
+	"malaysia-lottery-checker/scraper"
 )
 
 type PageData struct {
@@ -11,15 +14,34 @@ type PageData struct {
 	Message string
 }
 
+// entry function
 func main() {
 	indexTemplate, err := template.ParseFiles("templates/index.html")
 	if err != nil {
 		log.Fatalf("failed to load HTML template: %v", err)
 	}
 
+	// to get static file path
 	staticHandler := http.FileServer(http.Dir("static"))
 	http.Handle("/static/", http.StripPrefix("/static/", staticHandler))
+	http.HandleFunc("/test/supreme-toto", func(w http.ResponseWriter, r *http.Request) {
+		if r.Method != http.MethodGet {
+			w.WriteHeader(http.StatusMethodNotAllowed)
+			return
+		}
+		result, err := scraper.FetchSupremeTotoResult()
+		if err != nil {
+			http.Error(w, err.Error(), http.StatusBadGateway)
+			return
+		}
+		w.Header().Set("Content-Type", "application/json")
+		if err := json.NewEncoder(w).Encode(result); err != nil {
+			log.Printf("failed to encode Supreme Toto result: %v", err)
+		}
+	})
 
+	//like controller route
+	//w is used to send a response back to the browser.	r contains information about the incoming request.
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
 		if r.URL.Path != "/" {
 			http.NotFound(w, r)
