@@ -4,6 +4,7 @@ bin/
 
 .vscode/
 .idea/
+tmp/*
 
 .DS_Store
 Thumbs.db
