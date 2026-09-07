@@ -3,6 +3,7 @@ package scraper
 
 import (
 	"fmt"
+	"io"
 	"log"
 	"net/http"
 	"regexp"
@@ -44,11 +45,7 @@ func FetchSupremeTotoResult() (*SupremeTotoResult, error) {
 		return nil, fmt.Errorf("Toto Live returned HTTP status %s", resp.Status)
 	}
 
-	doc, err := goquery.NewDocumentFromReader(resp.Body)
-	if err != nil {
-		return nil, fmt.Errorf("parse Toto Live HTML: %w", err)
-	}
-	result, err := parseSupremeToto(doc)
+	result, err := ParseSupremeTotoResult(resp.Body)
 	if err != nil {
 		log.Printf("Failed to parse Supreme Toto section: %v", err)
 		return nil, err
@@ -59,51 +56,55 @@ func FetchSupremeTotoResult() (*SupremeTotoResult, error) {
 
 var numberPattern = regexp.MustCompile(`^\d+$`)
 
-func parseSupremeToto(doc *goquery.Document) (*SupremeTotoResult, error) {
-	var result *SupremeTotoResult
-	doc.Find("body *").EachWithBreak(func(_ int, heading *goquery.Selection) bool {
-		if normalize(heading.Text()) != "SUPREME TOTO 6/58" {
-			return true
-		}
-		for ancestor := heading; ancestor.Length() > 0 && result == nil; ancestor = ancestor.Parent() {
-			candidate := extractCandidate(ancestor)
-			if len(candidate.Numbers) == 6 {
-				result = candidate
-			}
-		}
-		return result == nil
-	})
-	if result == nil {
-		return nil, fmt.Errorf("unable to extract Supreme Toto 6/58 result")
+// ParseSupremeTotoResult extracts a Supreme result from Toto Live HTML.
+func ParseSupremeTotoResult(reader io.Reader) (*SupremeTotoResult, error) {
+	doc, err := goquery.NewDocumentFromReader(reader)
+	if err != nil {
+		return nil, fmt.Errorf("parse Toto Live HTML: %w", err)
 	}
-	return result, nil
-}
-
-func extractCandidate(section *goquery.Selection) *SupremeTotoResult {
+	// The heading and result are separate sibling tables in Toto Live HTML.
+	headings := doc.Find("td").FilterFunction(func(_ int, cell *goquery.Selection) bool {
+		return normalize(cell.Text()) == "SUPREME TOTO 6/58"
+	})
+	if headings.Length() != 1 {
+		return nil, fmt.Errorf("expected one Supreme Toto 6/58 heading, found %d", headings.Length())
+	}
+	table := headings.Closest("table").Next()
+	if !table.Is("table.supremetoto") {
+		return nil, fmt.Errorf("Supreme Toto 6/58 result table missing after heading")
+	}
+	rows := table.ChildrenFiltered("tbody").ChildrenFiltered("tr").AddSelection(table.ChildrenFiltered("tr"))
+	cells := rows.First().ChildrenFiltered("td")
+	if cells.Length() != 6 {
+		return nil, fmt.Errorf("Supreme Toto 6/58 requires six numbers, found %d", cells.Length())
+	}
 	result := &SupremeTotoResult{}
-	section.Find("*").Each(func(_ int, item *goquery.Selection) {
-		if item.Children().Length() != 0 {
+	for i := 0; i < cells.Length(); i++ {
+		number := strings.TrimSpace(cells.Eq(i).Text())
+		if !numberPattern.MatchString(number) {
+			return nil, fmt.Errorf("invalid Supreme Toto number at position %d: %q", i+1, number)
+		}
+		result.Numbers = append(result.Numbers, number)
+	}
+	rows.Slice(1, rows.Length()).Each(func(_ int, row *goquery.Selection) {
+		fields := row.ChildrenFiltered("td")
+		if normalize(fields.First().Text()) == "JACKPOT" {
+			result.Jackpot = strings.Join(strings.Fields(fields.Eq(1).Text()), " ")
+		}
+	})
+	table.Closest("[id^='resultTable']").Find("span").Each(func(_ int, span *goquery.Selection) {
+		label, value, ok := strings.Cut(span.Text(), ":")
+		if !ok {
 			return
 		}
-		text := strings.TrimSpace(item.Text())
-		upper := strings.ToUpper(text)
-		switch {
-		case strings.Contains(upper, "JACKPOT"):
-			value := strings.TrimSpace(strings.TrimPrefix(strings.TrimSpace(text), ":"))
-			if value != ":" {
-				result.Jackpot = value
-			}
-		case strings.Contains(upper, "RM"):
-			result.Jackpot = text
-		case strings.Contains(upper, "DRAW") && result.DrawNumber == "":
-			result.DrawNumber = text
-		case strings.Contains(upper, "DATE") && result.DrawDate == "":
-			result.DrawDate = text
-		case numberPattern.MatchString(text) && len(result.Numbers) < 6:
-			result.Numbers = append(result.Numbers, text)
+		switch normalize(label) {
+		case "DRAW NO":
+			result.DrawNumber = strings.TrimSpace(value)
+		case "DRAW DATE":
+			result.DrawDate = strings.TrimSpace(value)
 		}
 	})
-	return result
+	return result, nil
 }
 
 func normalize(value string) string {
